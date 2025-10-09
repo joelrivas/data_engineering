@@ -1,0 +1,5 @@
+apache-airflow==3.0.3
+pandas==2.3.3
+requests==2.32.4
+SQLAlchemy==1.4.54
+streamlit==1.50.0
